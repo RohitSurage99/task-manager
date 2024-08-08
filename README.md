@@ -28,8 +28,8 @@ Watch the demo video showcasing the app's features:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/RohitSurage99/task-manager-app.git
-   cd task-manager-app
+   git clone https://github.com/RohitSurage99/task_manager_app.git
+   cd task_manager_app
 
 
 ### Install dependencies
