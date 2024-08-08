@@ -17,7 +17,7 @@ This is a task management app built with Flutter and GetX.
 
 ## Demo
 Watch the demo video showcasing the app's features:
-[Demo Video](https://link-to-your-video.com)
+[Demo Video](https://drive.google.com/file/d/1lWFMRziNCrHelFlEJrDx35LkyNCbNSLn/view?usp=drivesdk)
 
 ## Getting Started
 
